@@ -1,4 +1,4 @@
--- Connected Discord-GitHub | Discord Username: YourDiscordTag | Roblox Username: YourRobloxName
+-- Connected Discord-GitHub | Discord Username: cocaptindev | Roblox Username: CoCaptinCrazy
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
